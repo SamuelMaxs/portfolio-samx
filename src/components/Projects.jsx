@@ -7,7 +7,7 @@ function Projects() {
     {
       id: 1,
       title: "Kasetto",
-      description: "Kasetto is a website for playing songs...",
+      description: "Kasetto is a website for playing songs",
       image: "./images/kasetto.png",
       category: "Web",
     },
